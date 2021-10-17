@@ -4,7 +4,7 @@
 	<listeners>
 		<listener class-name="com.alphasense.base.TestListener" />
 	</listeners>
-	<test name="Admin Tests">
+	<test name="PetStore Test">
 		<classes>
 			<class name="com.tests.AppTest" />
 		</classes>
